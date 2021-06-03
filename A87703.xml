@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Books printed for Walter Kettilby, at the Bishop's-Head in St. Paul's church-yard.</title>
+            <author>Kettilby, Walter, d. 1717.</author>
+         </titleStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87703</idno><idno type="EEBO-CITATION">43663300</idno>
+  <idno type="VID">172059</idno>
+  <idno type="EEBO-PROQUEST">2248574796</idno>
+  
+            <idno type="STC">Wing K356A</idno>
+            <idno type="STC">ESTC R233680</idno>
+            <idno type="OCLC">43663300</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2612:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Books printed for Walter Kettilby, at the Bishop's-Head in St. Paul's church-yard.</title>
+                  <author>Kettilby, Walter, d. 1717.</author>
+               </titleStmt>
+               <extent>[23] p.   </extent>
+               <publicationStmt>
+                  <publisher>W. Kettilby,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Kettilby, Walter, d. 1717 --  Catalogs.</term>
+               <term type="topical_term">Catalogs, Booksellers' --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="catalogue_of_books">
+            <pb facs="tcp:172059:1"/>
+            <pb facs="tcp:172059:1"/>
+            <head>
+               <hi>Books Printed for</hi> Walter Kettilby <hi>at the Bishop's-Head in St.</hi> Paul<hi>'s Church-yard.</hi>
+            </head>
+            <list>
+               <head>In FOLIO.</head>
+               <item>1. <hi>HEnrici Mori Cantabrigiensis Opera Omnia, tum quae Latinè, tum quae Anglicè scripta sunt; nunc vero Latinitate Donata Instigatu &amp; Impensis Generosissimi Juvenis Johannis Kockshuti Nobilis Angli.</hi> In Three Vol.</item>
+               <item>2. The Theory of the Earth: containing an Account of the Original of the Earth, and of all the General Changes which it hath already under<g ref="char:EOLhyphen"/>gone, or is to undergo, till the Consummation of all things. The two first Books concerning the Deluge, and concerning Paradise.</item>
+               <item>3. Poems by the most deservedly admired Mrs. <hi>Katherine Philips,</hi> The Matchless <hi>Orinda.</hi> To which is added Monsieur <hi>Corneille</hi>'s <hi>Pompey</hi> and <hi>Horace,</hi> Tragedies, with several other Transla<g ref="char:EOLhyphen"/>tions out of <hi>French.</hi>
+               </item>
+               <item>4. An Idea of a Philosophical History of Plants, read before the Royal Society, <hi>January</hi> 8. and <hi>Jan.</hi> 15. 1672. by <hi>Nehemiah Grew,</hi> M. D. Fellow of the Royal Society, and of the Colledge of Phy<g ref="char:EOLhyphen"/>scians.</item>
+            </list>
+            <list>
+               <pb facs="tcp:172059:2"/>
+               <head>In QƲARTO.</head>
+               <item>1. <hi>APocalypsis Apocalypseos;</hi> Or the Revelati<g ref="char:EOLhyphen"/>on of S. <hi>John</hi> the Divine unveiled: con<g ref="char:EOLhyphen"/>taining a brief but perspicuous and continued Ex<g ref="char:EOLhyphen"/>position from Chapter to Chapter, and from Verse to Verse, of the whole Book of the Apo<g ref="char:EOLhyphen"/>calypse.</item>
+               <item>2. A plain and continued Exposition of the se<g ref="char:EOLhyphen"/>veral Prophecies or Divine Visions of the Prophet <hi>Daniel,</hi> which have or may concern the People of God, whether Jew or Christian; whereunto is annexed a threefold Appendage, touching three main points, the first relating to <hi>Daniel,</hi> the other two to the <hi>Apocalypse.</hi>
+               </item>
+               <item>3. An Answer to several Remarks upon Dr. <hi>Henry More</hi> his Expositions of the <hi>Apocalypse</hi> and <hi>Daniel;</hi> as also upon his Apology: Written by <hi>S. E. Mennonite,</hi> and published in English by the Answerer: whereunto are annexed two small pieces, <hi>Arithmetica Apocalyptica,</hi> and <hi>Appendi<g ref="char:EOLhyphen"/>cula Apocalyptica.</hi> Of all which an account is gi<g ref="char:EOLhyphen"/>ven in the Preface.</item>
+               <item>4. An Illustration of those two abstruse Books in holy Scripture, the Book of <hi>Daniel</hi> and the Re<g ref="char:EOLhyphen"/>velation of S. <hi>John;</hi> by continued, brief, but clear Notes, from Chapter to Chapter, and from Verse to Verse, with very useful and apposite arguments prefix'd to each Chapter, framed out of the Expositions of Dr. <hi>Henry More.</hi>
+               </item>
+               <item>5. <hi>Paralipomena Prophetica,</hi> containing several Supplements and Defences of Dr. <hi>Henry More</hi> his Expositions of the Prophet <hi>Daniel</hi> and the <hi>Apoca<g ref="char:EOLhyphen"/>lypse,</hi>
+                  <pb facs="tcp:172059:2"/>whereby the impregnable firmness and so<g ref="char:EOLhyphen"/>lidity of the said Expositions is farther evidenced to the World. Whereunto is also added <hi>Philili<g ref="char:EOLhyphen"/>crines</hi> upon <hi>R. B.</hi> his Notes on the Revelation of S. <hi>John.</hi>
+               </item>
+               <item>6. <hi>Tetractys Anti-Astrologica,</hi> or, the four Chapters in the Explanation of the Grand Myste<g ref="char:EOLhyphen"/>ry of Godliness, which contain a brief, but solid confutation of Judiciary Astrology, with Anno<g ref="char:EOLhyphen"/>tations upon each Chapter; wherein the won<g ref="char:EOLhyphen"/>drous weaknesses of <hi>John Butler,</hi> B. D. his An<g ref="char:EOLhyphen"/>swer called a Vindication of Astrology, <hi>&amp;c.</hi> are laid open to the view of every Intelligent Rea<g ref="char:EOLhyphen"/>der. All six written by the Reverend and Learn<g ref="char:EOLhyphen"/>ed <hi>Henry More,</hi> D. D. since the publication of his Latin Works.</item>
+               <item>7. <hi>Telluris Theoria Sacra: Orbis nostri Originem &amp; Mutationes Generales, quas aut jam subiit, aut olim subiturus est complectens. Libri duo priores de Diluvio &amp; Paradiso.</hi>
+               </item>
+               <item>8. A Sermon preached before Sir <hi>P. W. Anno</hi> 1681. with additions: to which are annexed three digressional Exercitations: 1. Concerning the true time of our Saviour's Passeover. 2. Con<g ref="char:EOLhyphen"/>cerning the prohibition of the <hi>Hebrew</hi> Canon to the ancient Jews. 3. Concerning the Jewish <hi>Te<g ref="char:EOLhyphen"/>tragrammaton,</hi> and the <hi>Pythagorick Tetractys:</hi> by <hi>John Turner,</hi> late Fellow of <hi>Christ</hi>'s <hi>Colledge</hi> in <hi>Cambridge.</hi>
+               </item>
+               <item>9. A brief account of ancient Church-Govern<g ref="char:EOLhyphen"/>ment, with a reflection on several modern wri<g ref="char:EOLhyphen"/>tings of the <hi>Presbyterians</hi> (the Assembly of Di<g ref="char:EOLhyphen"/>vines, their <hi>Jus Divinum Ministerii Anglicani;</hi> published 1634. and Mr. <hi>Blondel</hi>'s <hi>Apologia pro Sententia Hieronymi,</hi> and others) touching this subject: the second Edition.</item>
+               <pb facs="tcp:172059:3"/>
+               <item> 10. <hi>Metallegraphia:</hi> or, an History of Metals, wherein is declared the Signs of Ores and Mine<g ref="char:EOLhyphen"/>rals, both before and after digging, the Causes and manner of their Generations, their kinds, sorts and differences; with the description of sundry new Metals, or semi-Metals, and many other things pertaining to Mineral Knowledge; as also, the handling and shewing of their Vegeta<g ref="char:EOLhyphen"/>bility, and the discussion of the most difficult questions belonging to Mystical Chymistry, as of the Philosophers Gold, their Mercury, the Li<g ref="char:EOLhyphen"/>quor <hi>Alkahest, Aurum Potabile,</hi> and such like, ga<g ref="char:EOLhyphen"/>thered out of the most approved Authors that have written in Greek, Latin, or High Dutch; with some observations and discoveries of the Au<g ref="char:EOLhyphen"/>thor himself: by <hi>John Webster,</hi> Practitioner in Physick and Chirurgery.</item>
+               <item>11. The Royal College of Physicians of <hi>London,</hi> founded and established by Law; as appears by Letters Patents, Acts of Parliament, Adjudged Cases, <hi>&amp;c.</hi> And an Historical account of the Colleges proceedings against Empiricks and un<g ref="char:EOLhyphen"/>licensed Practisers in every Princes Reign from their first Incorporation to the Murther of the Royal Martyr King <hi>CHARLES</hi> the First. By <hi>Charles Goodall,</hi> Dr. in Physick, and Fellow of the said College of Physicians.</item>
+               <item>12. Three Anatomic Lectures concerning, First, The Motion of the Bloud through the Veins and Arteries. Secondly, The Organic structure of the Heart. Thirdly, The Efficient Causes of the Hearts Pulsation; Read on the 19.20. and 21. days of <hi>March,</hi> 1682. In the Anatomick Theatre of His Majesties Royal College of Physicians in <hi>London,</hi> by <hi>Walter Charleton,</hi> M. D. and Fellow of the same College.</item>
+               <pb facs="tcp:172059:3"/>
+               <item> 13. Painting Illustrated: In Three Dialogues, Containing some choice observations upon the Art. Together with the Lives of the most Eminent Painters from <hi>Cimabue,</hi> to the time of <hi>Raphael</hi> and <hi>Michael Angelo,</hi> with an Explanation of the difficult Terms.</item>
+            </list>
+            <list>
+               <head>In OCTAVO.</head>
+               <item>1. Dr <hi>Henry More</hi>'s brief Reply to a late An<g ref="char:EOLhyphen"/>swer to his Antidote against Idolatry; Shewing that there is nothing in the said Answer that does any ways weaken his Proofs of Idolatry against the Church of <hi>Rome;</hi> and therefore all are bound to take heed how they enter into, or continue in the Communion of that Church, as they tender their own Salvation: with an Ap<g ref="char:EOLhyphen"/>pendix to his Antidote.</item>
+               <item>2. Dr. <hi>Falkner</hi>'s <hi>Libertas Ecclesiastica:</hi> or a Discourse vindicating the Lawfulness of those things, which are chiefly excepted against in the Church of <hi>England,</hi> especially in its Liturgy and Worship. And manifesting their agreeableness with the Doctrine and Practice both of Antient and modern Churches.</item>
+               <item>3. —'s Vindication of Liturgies, shewing the Lawfulness, Usefulness, and Antiquity of per<g ref="char:EOLhyphen"/>forming the publick Worship of God by Set Forms of Prayer, <hi>&amp;c.</hi>
+               </item>
+               <item>4. —'s Christian Loyalty: or a Discourse wherein is asserted that Just Royal Authority and Eminency, which in this Church and Realm of <hi>England</hi> is yielded to the Kings, especially con<g ref="char:EOLhyphen"/>cerning Supremacy in Causes Ecclesiastical. To<g ref="char:EOLhyphen"/>gether
+<pb facs="tcp:172059:4"/>with the Disclaiming all Foreign Jurisdi<g ref="char:EOLhyphen"/>ctions; and the Unlawfulness of Subjects taking Arms against the King.</item>
+               <item>5. Dr. <hi>William Sherlock</hi>'s Discourse concerning the Knowledge of Jesus Christ, and our Union and Communion with him, <hi>&amp;c.</hi> To which is an<g ref="char:EOLhyphen"/>nexed a Defence and Continuation; with a par<g ref="char:EOLhyphen"/>ticular respect to the Doctrine of the Church of <hi>England,</hi> and the charge of Socinianism and Pe<g ref="char:EOLhyphen"/>lagianism.</item>
+               <item>6. Dr. <hi>Scott</hi>'s Christian Life, Part I. from its beginning to its consummation in Glory. Toge<g ref="char:EOLhyphen"/>ther with the several means and instruments of Christianity conducing thereunto, with directions for Private Devotions, and Forms of Prayer, fit<g ref="char:EOLhyphen"/>ted to the several states of Christians. The Fourth Edition.</item>
+               <item>7. —'s Christian Life, Part II. wherein the Fundamental Principles of Christian Duty are Assigned, Explained and proved, <hi>Vol. I.</hi> the Se<g ref="char:EOLhyphen"/>cond Edition.</item>
+               <item>8. —'s Christian Life, Part II. wherein that Fun<g ref="char:EOLhyphen"/>damental Principle of Christian Duty, the Doctrine of our Saviour's Mediation is explained and pro<g ref="char:EOLhyphen"/>ved, <hi>Vol. II.</hi> the Second Edition.</item>
+               <item>9. <hi>Jovian,</hi> or an Answer to <hi>Julian</hi> the Apo<g ref="char:EOLhyphen"/>state.</item>
+               <item>10. <hi>Constantius</hi> the Apostate: being a short account of his Life, and the sense of the Primi<g ref="char:EOLhyphen"/>tive Christians about his Succession: and their behaviour towards him, <hi>&amp;c.</hi> Being a full answer to a late Pamphlet, Entitled, <hi>Julian</hi> the Apo<g ref="char:EOLhyphen"/>state, <hi>&amp;c.</hi>
+               </item>
+               <item>11. Dr. <hi>Edward Fowler</hi>'s <hi>Libertas Evangelica:</hi> or, a Discourse of Christian Liberty, being a far<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:172059:4"/>pursuance of the Argument of the Design of Christianity.</item>
+               <item>12. Dr. <hi>Worthington</hi>'s great Duty of Self-Re<g ref="char:EOLhyphen"/>signation to the Divine Will.</item>
+               <item>13. Mr. <hi>Hotchkis</hi>'s Discourse concerning the Imputation of Christ's Righteousness to us, and our sins to him; with many useful questions, thereunto pertaining, Resolved, <hi>&amp;c.</hi>
+               </item>
+               <item>14. —'s Second part of a Discourse concerning Imputed Righteousness; together with a large Preface, in answer to Mr. <hi>Throughton</hi>'s late book, Entituled <hi>Lutherus Redivivus,</hi> and a Postscript, containing a Vindication of the Author's Do<g ref="char:EOLhyphen"/>ctrine in the former part, against the Reflections of Dr. <hi>John Owen,</hi> in his late Book of Justifica<g ref="char:EOLhyphen"/>tion.</item>
+               <item>15. Mr. <hi>Needham</hi>'s six Sermons at <hi>Cambridge.</hi>
+               </item>
+               <item>16. Mr. <hi>Grail</hi>'s four Sermons at <hi>Norwich.</hi>
+               </item>
+               <item>17. Mr. <hi>Long</hi>'s History of the <hi>Donatists.</hi>
+               </item>
+               <item>18. —'s Character of a Separatist, or Sensuali<g ref="char:EOLhyphen"/>ty the ground of Separation: to which is added the <hi>Pharisees</hi> Lesson, on <hi>Matth.</hi> 9.13.</item>
+               <item>19. —'s Examination of Mr. <hi>Hales</hi>'s Treatise of Schism: to which are added, Mr. <hi>Baxter</hi>'s Arguments for Conformity, wherein the most material passages of the Treatise of Schism are Answered.</item>
+               <item>20. —'s Nonconformists Plea for Peace Im<g ref="char:EOLhyphen"/>pleaded: in Answer to several late writings of Mr. <hi>Baxter,</hi> and others, pretending to shew Rea<g ref="char:EOLhyphen"/>sons for the sinfulness of Conformity.</item>
+               <item>21. Mr. <hi>Lamb</hi>'s stop to the Course of Separation.</item>
+               <item>22. —'s Fresh Suit against Independency.</item>
+               <item>23. Mr. <hi>William Allen</hi>'s Perswasive to peace and unity among Christians, <hi>&amp;c.</hi>
+               </item>
+               <pb facs="tcp:172059:5"/>
+               <item> 24. —'s Serious and Friendly address to the Nonconformists.</item>
+               <item>25. —'s Grand Error of the Quakers detected and confuted.</item>
+               <item>26. —'s Mystery of Iniquity unfolded against the Papists.</item>
+               <item>27. —'s Animadversions on that part of Mr. <hi>Ferguson</hi>'s Book, Intituled, The Interest of Reason in Religion, which treats of Justification; in a Letter to a Friend.</item>
+               <item>28. —'s Christians Justification Stated, <hi>&amp;c.</hi>
+               </item>
+               <item>29. —'s Discourse of Divine Assistance, and the method thereof, <hi>&amp;c.</hi>
+               </item>
+               <item>30. —'s Practical Discourse of Humility.</item>
+               <item>31. —'s <hi>Catholicism,</hi> or several Enquiries touching visible Church-Membership, Church-Communion, the nature of Schism, and the Use<g ref="char:EOLhyphen"/>fulness of National Constitutions for the furthe<g ref="char:EOLhyphen"/>rance of Religion.</item>
+               <item>32. —'s State of the Church in future Ages, <hi>&amp;c.</hi>
+               </item>
+               <item>33. Dr. <hi>Charleton</hi>'s Harmony of Natural and positive Divine Laws.</item>
+               <item>34. Mr. <hi>Kidder</hi>'s Christian Sufferer Supported, <hi>&amp;c.</hi>
+               </item>
+               <item>35. Mr. <hi>Hesketh</hi>'s serious Exhortation to fre<g ref="char:EOLhyphen"/>quent Communion.</item>
+               <item>36. —'s Piety the best rule of Orthodoxy.</item>
+               <item>37. Dr. <hi>William Smith</hi>'s unjust man's Doom, and two Assiize Sermons.</item>
+               <item>38. Dr. <hi>John Smith</hi>'s Pourtraict of Old age; wherein is contained a Sacred Anatomy both of Soul and Body, <hi>&amp;c.</hi> being a Paraphrase upon the six former. Verses of the twelfth Chapter of <hi>Eccle<g ref="char:EOLhyphen"/>siastes.</hi>
+               </item>
+               <pb facs="tcp:172059:5"/>
+               <item> 39. Mr. <hi>Halliwell</hi>'s discourse of the excellency of Christianity.</item>
+               <item>40. —'s Sacred method of saving humane Souls by <hi>Jesus Christ.</hi>
+               </item>
+               <item>41. —'s <hi>Melampronoea:</hi> or a discourse of the Polity and Kingdom of darkness, together with a solution of the chiefest objections brought against the Being of Witches.</item>
+               <item>42. —'s Account of Familism as it is re<g ref="char:EOLhyphen"/>vived and propagated by the Quakers.</item>
+               <item>43. Mr. <hi>John Turner</hi>'s two discourses Introdu<g ref="char:EOLhyphen"/>ctory, and his Letter of Resolution about the un<g ref="char:EOLhyphen"/>lawfulness of the marriage of Cousin Germans.</item>
+               <item>44. —'s Resolution of three Matrimonial ca<g ref="char:EOLhyphen"/>ses, <hi>viz.</hi> whether it be lawful for a man to marry his deceased Wifes Sisters daughter, <hi>&amp;c.</hi>
+               </item>
+               <item>45. —'s <hi>Boaz</hi> and <hi>Ruth,</hi> or a disquisition upon <hi>Deut.</hi> 25.5. concerning the Brother's propaga<g ref="char:EOLhyphen"/>ting the name and memory of his elder Brother deceased, <hi>&amp;c.</hi> together with a discovery of se<g ref="char:EOLhyphen"/>veral things as well in the Eastern as <hi>Roman</hi> Anti<g ref="char:EOLhyphen"/>quities, never yet explained or understood by any.</item>
+               <item>46. —'s Attempt towards an explanation of the Theology and Mythology of the ancient Pa<g ref="char:EOLhyphen"/>gans.</item>
+               <item>47. <hi>Plato</hi>'s <hi>Daemon,</hi> or the State-physician un<g ref="char:EOLhyphen"/>mask'd, in answer to <hi>Plato Redivivus,</hi> by <hi>T. God<g ref="char:EOLhyphen"/>dard,</hi>
+                  <abbr>Esquire</abbr>.</item>
+               <item>48. <hi>Ampraldus</hi>'s discourse of divine Dreams.</item>
+               <item>49. The Essays or Counsels, Civil and Moral, of Sir <hi>Francis Bacon,</hi> Lord <hi>Verulam,</hi> Viscount St. <hi>Alban,</hi> with a Table of the colours of good and evil; whereunto is added the wisdom of the Ancients.</item>
+               <pb facs="tcp:172059:6"/>
+               <item> 50. Some opinions of Mr. <hi>Hobs</hi> considered in a second dialogue between <hi>Philautus</hi> and <hi>Timothy.</hi>
+               </item>
+               <item>51. Memoires of the Family of the <hi>Stuarts.</hi>
+               </item>
+               <item>52. Mr. <hi>Cooper</hi>'s English Teacher, or a disco<g ref="char:EOLhyphen"/>very of the art of teaching and learning the Eng<g ref="char:EOLhyphen"/>lish Tongue.</item>
+               <item>53. Dr. <hi>Spencer</hi>'s <hi>Dissertatio de Ʋrim &amp; Thum<g ref="char:EOLhyphen"/>mim.</hi>
+               </item>
+               <item>54. <hi>Epigrammata Juvenilia, viz. Encomia, Seria, Satyrae, Jocosa, Authore Guil. Speede.</hi>
+               </item>
+               <item>55. <hi>Thomae Sydenham M. D. Opera Ʋniversa cum Indice Alphabetico.</hi>
+               </item>
+               <item>56. —<hi>Schedula Monitoria de Novae Febris Ingressu,</hi> since published.</item>
+               <item>57. <hi>Mayow Tractatus quinque Medico-Physici; quorum primus agit de Sal-Nitro, &amp; Spiritu Nitro-Aereo; secundus de Respiratione; tertius de Respi<g ref="char:EOLhyphen"/>ratione Foetus in Ʋtero &amp; Ovo; quartus de motu musculari &amp; Spiritibus Animalibus; ultimus de Rhachitide.</hi>
+               </item>
+               <item>58. <hi>Dr. Jones de Febribus Intermittentibus in quo obiter Febris continuae natur a explicata.</hi>
+               </item>
+               <item>59. <hi>Friderici Lossii Observationes Medicinales.</hi>
+               </item>
+               <item>60. <hi>Apologia pro Circuitione sanguinis. Qua respondetur Aemylio Parisano, Medico Veneto-Auctore Georgio Entio.</hi>
+               </item>
+               <item>61. <hi>Gualteri Charletoni Inquisitio Physica de causis Catameniorum &amp; uteri Rheumatismo. In quae</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>probatur sanguinem in animali Fermen<g ref="char:EOLhyphen"/>tescere nunquam.</hi>
+               </item>
+               <item>62. Monsieur <hi>Lemery</hi>'s course of Chymistry, containing an easie method of preparing those Chymical medicines which are used in Physick, with curious Remarks and useful discourses upon each preparation, for the benefit of such who de<g ref="char:EOLhyphen"/>sire
+<pb facs="tcp:172059:6"/>to be instructed in the knowledge of this Art.</item>
+               <item>63. Dr. <hi>Grew</hi>'s Comparative Anatomy of Trunks, together with an account of their Vege<g ref="char:EOLhyphen"/>tation grounded thereupon.</item>
+               <item>64. Dr. <hi>Goodall</hi>'s Colledge of Physicians Vin<g ref="char:EOLhyphen"/>dicated, and the true state of Physick in this Na<g ref="char:EOLhyphen"/>tion faithfully represented, in answer to a scan<g ref="char:EOLhyphen"/>dalous pamphlet, entituled, the Corner-Stone, <hi>&amp;c.</hi>
+               </item>
+               <item>65. A dialogue between <hi>Philiater</hi> and <hi>Momus,</hi> concerning a late scandalous pamphlet, called the conclave of Physlcians.</item>
+               <item>66. Dr. <hi>Henry More</hi>'s Remarks upon two late Ingenious discourses, the one, an Essay touching the Gravitation and Non-Gravitation of Fluid Bodies: the other, Observations touching the <hi>Torricellian</hi> experiment. So far forth as they may concern any passages in his <hi>Enchiridion Metaphy<g ref="char:EOLhyphen"/>sicum.</hi>
+               </item>
+               <item>67. The Legend of Captain <hi>Jones</hi> relating his adventure to Sea: His first landing and strange combate with a mighty Bear; his furious battel with six and thirty men, against the army of ele<g ref="char:EOLhyphen"/>ven Kings, with their overthrow and deaths; his relieving of <hi>Kemper</hi>-castle; strange and admi<g ref="char:EOLhyphen"/>rable Sea-fight with six huge Gallies of <hi>Spain,</hi> and nine thousand Soldiers: his being taken prisoner, and hard usage: lastly, his being set at liberty by the King's command, and return for <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:172059:7"/>
+               <head>Pamphlets in FOLIO.</head>
+               <item>1. THE Spirit of Popery speaking out of the mouths of Fanatical Protestants; or the last Speeches of Mr. <hi>John Kid</hi> and Mr. <hi>John King,</hi> two <hi>Presbyterian</hi> Ministers, who were executed for High Treason and Rebellion at <hi>Edinburgh, August</hi> the 14th. 1679. with Animadversions, and the History of the Archbishop of S. <hi>Andrews</hi> his murder, extracted out of the Registers of the privy Council, <hi>&amp;c.</hi>
+               </item>
+               <item>2. <hi>Ravillac Redivivus:</hi> being a Narrative of the late Trial of Mr. <hi>James Mitchel,</hi> a Conven<g ref="char:EOLhyphen"/>ticle-preacher: who was executed the 18th. of <hi>January</hi> 1677. for an attempt which he made on the sacred person of the Archbishop of S. <hi>Andrews.</hi> To which is annexed, an account of the Trial of that most wicked <hi>Pharisee,</hi> Major <hi>Thomas Weir,</hi> who was executed for Adultery, Incest and Besti<g ref="char:EOLhyphen"/>ality. In which are many observable passages, especially relating to the Church and State of <hi>Scotland.</hi>
+               </item>
+               <item>3. The <hi>Roman</hi> Wonder, being Truth confest by Papists; wherein the Clergy of the Church of <hi>England</hi> in their charge of Heretical and damnable doctrines upon the Jesuits are fully and fairly Justified. First, by the suffrage and consent of the <hi>Romish</hi> Archbishops, Bishops, and eminent Doctors and Divines of <hi>France.</hi> Secondly, by the Verdict of Lords Cardinals Inquisitors at <hi>Rome.</hi> Thirdly, by the decretal Sentence of this present Pope <hi>Innocent</hi> XI. made the second of <hi>March,</hi> 1679. written originally in <hi>Latin</hi> and
+<pb facs="tcp:172059:7"/>
+                  <hi>French,</hi> and now translated into <hi>English;</hi> for the satisfactory Information of all Papists in <hi>England,</hi> and the unanswerable Vindication of the Church of <hi>England.</hi>
+               </item>
+               <item>4. A defence of Sir <hi>R. Filmer,</hi> against the mi<g ref="char:EOLhyphen"/>stakes and misrepresentations of <hi>Algernoon Sidney,</hi> Esq; in a paper delivered by him to the Sheriffs upon the Scaffold on <hi>Tower-Hill,</hi> on Friday <hi>De<g ref="char:EOLhyphen"/>cember</hi> the 7th. 1683. before his execution there.</item>
+            </list>
+            <list>
+               <head>In QƲARTO.</head>
+               <item>1. Dr. <hi>Grove</hi>'s defence of the Church and Cler<g ref="char:EOLhyphen"/>gy of <hi>England,</hi> wherein some of the common Objections against both are answered, and the means of Union briefly considered.</item>
+               <item>2. —'s Vindication of the conforming Clergy from the unjust aspersions of Heresie, <hi>&amp;c.</hi> In answer to some part of <hi>Mr. Jenkin</hi>'s Funeral Ser<g ref="char:EOLhyphen"/>mon on Dr. <hi>Seaman;</hi> with short reflections on some passages in a Sermon preached by <hi>Mr. J. S.</hi> on 2 <hi>Cor.</hi> 5.22.</item>
+               <item>3. —<hi>Responsio ad Nuperum Libellum qui in<g ref="char:EOLhyphen"/>scribitur Celeusma, seu Clamor ad Theologos Hie<g ref="char:EOLhyphen"/>rarchiae Anglicanae,</hi> &amp;c.</item>
+               <item>4. —<hi>Defensio suae Responsionis ad Celeusma,</hi> &amp;c. <hi>Adjecta sunt parallela Imparia, sive Specimen Fidei Celeusmaticae.</hi>
+               </item>
+               <item>5. A perswasive to Reformation and Union, as the best security against the designs of our Popish enemies.</item>
+               <item>6. Remarks on the growth and progress of Non-conformity.</item>
+               <pb facs="tcp:172059:8"/>
+               <item> 7. <hi>Mr. Baxter</hi>'s vindication of the Rites and Ceremonies of the Church of <hi>England.</hi>
+               </item>
+               <item>8. Dr. <hi>Sherlock</hi>'s Examination and Refutation of some Reasons for Non-conformity.</item>
+               <item>9. —'s Answer to a Scandalous pamphlet, entituled, a friendly debate between Satan and <hi>Sherlock.</hi>
+               </item>
+               <item>10. —'s Account of <hi>Mr. Robert Ferguson</hi>'s Common-place Book.</item>
+               <item>11. Dr. <hi>Clagget</hi>'s Reply to the mischiefs of Impositions, which seem to answer the Dean of S. <hi>Paul</hi>'s Sermon, concerning the Mischiefs of Separation.</item>
+               <item>12. A discourse concerning Conscience; the first Part: wherein an account is given of the Nature, and Rule, and Obligation of it. And the case of those who separate from the Commu<g ref="char:EOLhyphen"/>nion of the Church of <hi>England,</hi> as by Law esta<g ref="char:EOLhyphen"/>blished, upon this pretence, that it is against their conscience to joyn in it, is stated and dis<g ref="char:EOLhyphen"/>cussed.</item>
+               <item>13. A discourse of Conscience: The second part; concerning a doubting conscience.</item>
+               <item>14. A resolution of this case, <hi>viz.</hi> Whether it be lawful to separate from the publick worship of God in the parochial assemblies of <hi>England,</hi> upon that new pretence which some men make, of the case being much altered now from what it was, when the Puritans wrote against the Brownists, and the Presbyterians against the Independents.</item>
+               <item>15. A resolution of two cases of Conscience, in two discourses, the first of the Lawfulness of compliance with all the ceremonies of the Church of <hi>England:</hi> The second, of the Necessity of the use of Common-prayer in publick.</item>
+               <pb facs="tcp:172059:8"/>
+               <item> 16. Protestant Loyalty fairly drawn, in an answer to a pair of Scandalous and Popish pam<g ref="char:EOLhyphen"/>phlets: The first Intituled, a dialogue at <hi>Oxford</hi> between Tutor and Pupil, <hi>&amp;c.</hi> The other In<g ref="char:EOLhyphen"/>tituled, an Impartial account of the Nature and Tendency of the late Addresses.</item>
+               <item>17. The Harmony of Divinity and Law, in a discourse about not resisting of Sovereign Princes.</item>
+               <item>18. The Origen of Atheism in the Popish and Protestant Countries; written in Latin by <hi>Doro<g ref="char:EOLhyphen"/>theus Sicurus,</hi> made English and a Preface added by <hi>E. B.</hi>
+                  <abbr>Esquire</abbr>:</item>
+               <item>19. An Apology for the Church of <hi>England,</hi> against the clamours of the men of no Conscience, or the Duke of <hi>Buckingham</hi>'s Seconds.</item>
+               <item>20. Seasonable advice to the Citizens, Burges<g ref="char:EOLhyphen"/>ses, Freemen and Freeholders of the Nation, concerning Parliaments, and the (then) present Elections, by a Divine of the Church of <hi>England.</hi>
+               </item>
+               <item>21. Bishop <hi>Rust</hi>'s discourse of the use of Rea<g ref="char:EOLhyphen"/>son in matters of Religion, shewing that Christi<g ref="char:EOLhyphen"/>anity contains nothing repugnant to right Reason, against Enthusiasts and Deists.</item>
+               <item>22. —'s Remains, both published by <hi>Henry Hallywell.</hi>
+               </item>
+               <item>23. A true and lively representation of Pope<g ref="char:EOLhyphen"/>ry, shewing that Popery is only new modell'd Paganism, and perfectly destructive of the great ends and purpose of God in the Gospel.</item>
+               <item>24. The Catholick Cause, or the horrid pra<g ref="char:EOLhyphen"/>ctice of murdering Kings, justified and commen<g ref="char:EOLhyphen"/>ded by the Pope, in a Speech to his Cardinals, upon the barbarous Assassination of <hi>Henry</hi> the Third of <hi>France,</hi> who was stabb'd by <hi>Jaques Cle<g ref="char:EOLhyphen"/>ment,</hi> a Dominican Friar.</item>
+               <pb facs="tcp:172059:9"/>
+               <item> 25. An answer to Mr. <hi>Lowth</hi>'s Letter to Doctor <hi>Stilling sleet,</hi> in another Letter to a Friend.</item>
+               <item>26. An answer to a late printed paper given about by some of the Church of <hi>Rome,</hi> in a Letter to a Friend.</item>
+               <item>27. <hi>Speculum Beatae Virginis:</hi> a discourse of the due praise and honour of the Blessed Virgin, by a true Catholick of the Church of <hi>England.</hi>
+               </item>
+               <item>28. Dr. <hi>Henry More</hi>'s brief discourse of the Real Presence of the Body and Bloud of Christ in the celebration of the Holy Eucharist, wherein the witty artifices of the Bishop of <hi>Meaux</hi> and Mon<g ref="char:EOLhyphen"/>sieur <hi>Maimbourgh</hi> are obviated, whereby they would draw in the Protestants to embrace the Do<g ref="char:EOLhyphen"/>ctrine of Transubstantiation.</item>
+               <item>29. An Apologetical Vindication of the Church of <hi>England,</hi> in answer to those who reproach Her with the English Heresies and Schisms, or suspect Her not to be a Catholick Church upon their ac<g ref="char:EOLhyphen"/>count.</item>
+               <item>30. A Treatise in confutation of the Latin Ser<g ref="char:EOLhyphen"/>vice practised, and, by the Order of the <hi>Trent</hi>-Council, continued in the Church of <hi>Rome.</hi>
+               </item>
+               <item>31. A discourse concerning the Second Council of <hi>Nice,</hi> which first introduced and established Image-worship in the Christian Church, <hi>Anno Dom.</hi> 787.</item>
+               <item>32. Mr. <hi>Gilbert Clerk</hi>'s Spot-Dial, very useful to shew the Hour within the House. Together with directions how to find a true Meridian, the <hi>Azymuth</hi> and Declination, and how to draw a Dial upon a Staff, upon the Cieling, upon any Pillar or Globe.</item>
+               <item>33. <hi>Roberti Grovii Carmen de Circuitione San<g ref="char:EOLhyphen"/>guinis; adjecta sunt Miscellanea quaedam.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:172059:9"/>
+               <head>Sermons in QƲARTO.</head>
+               <item>1. A <hi>Chitophel</hi>'s policy defeated, preached <hi>Sept.</hi> 9. 1683. on 2 <hi>Sam.</hi> XV. 12.</item>
+               <item>2. Dr. <hi>Bisby</hi>'s Prosecution no Persecution, preached at the Assizes at <hi>Bury St. Edmunds</hi> in <hi>Suffolk, Mar.</hi> 22. 1681. on <hi>Phil.</hi> i. 29.</item>
+               <item>3. —'s Modern Pharisees, on <hi>Mat.</hi> xxiii. 15.</item>
+               <item>4. —'s Two Sermons, shewing the Mischiefs and Treasons of Conventicles, preached at the <hi>Suffolk</hi> Assizes, <hi>An.</hi> 1682. the one on <hi>Judges</hi> xvii. 6. the other on <hi>Numb.</hi> xxvi. 9.</item>
+               <item>5. —'s Visitation Sermon at <hi>Bury St. Edmunds, May</hi> 3. 1686. on 1 <hi>Cor.</hi> xi. 34.</item>
+               <item>6. Dr. <hi>Butler</hi>'s Christian Liberty in opposition to the <hi>Roman</hi> yoke, preached at <hi>Windsor, Decemb.</hi> 8. 1678. on <hi>Galat.</hi> v. 1.</item>
+               <item>7. Mr. <hi>Brown</hi>'s Visitation Sermon at <hi>Halstead</hi> in <hi>Essex, April</hi> 12. 1681. on <hi>Rom.</hi> xiii. 1.</item>
+               <item>8. —'s Observation of Holy Days Justified and Recommended in a Sermon on <hi>Acts</hi> xx. 16.</item>
+               <item>9. Mr. <hi>Bedle</hi>'s Sermon, <hi>Nov.</hi> 5. 1678. on <hi>Psalm</hi> vii. 15.</item>
+               <item>10. Mr. <hi>Boraston</hi>'s Sermon at the <hi>Worcestershire</hi> Feast, <hi>Nov.</hi> 29. 1683. on <hi>Matt.</hi> vii. 12.</item>
+               <item>11. <hi>Mr. Battel</hi>'s Sermon at the <hi>Hertford</hi> As<g ref="char:EOLhyphen"/>sizes, <hi>Mar.</hi> 7. 1683. on the same Text.</item>
+               <item>12. Mr. <hi>Bryan</hi>'s certainty of Future Judgment, preached <hi>Octob.</hi> 26. 1684. on 2 <hi>Cor.</hi> v. 11.</item>
+               <item>13. Dr. <hi>Calamy</hi>'s Sermon before the Lord <hi>May<g ref="char:EOLhyphen"/>or, May</hi> 29. 1682. on <hi>John</hi> v. 14.</item>
+               <item>14. —'s Sermon <hi>Sept.</hi> 9. 1683. on <hi>Ecclesiastes</hi> x. 20.</item>
+               <pb facs="tcp:172059:10"/>
+               <item> 15. —'s Sermon before the Lord <hi>Mayor, Jan.</hi> 30. 1683. on <hi>Rom.</hi> iii. 8.</item>
+               <item>16. —'s Sermon before the Lord <hi>Mayor, Sept.</hi> 2. 1684. on <hi>Isaiah</hi> lvii. 21.</item>
+               <item>Dr. <hi>Clutterbuck</hi>'s Spittle Sermon at <hi>S. Sepulchres, March</hi> 30. 1687. on <hi>Rom.</hi> xii. 13.</item>
+               <item>17. <hi>Mr. Cutlove</hi>'s Two Assize Sermons at <hi>Bury St. Edmunds, Anno</hi> 1680. and 1681. one on <hi>Exod.</hi> xx. 7. the other on <hi>Rom.</hi> xii. 6.</item>
+               <item>18. <hi>Mr. Cooke</hi>'s Sermon <hi>July</hi> 26. 1685. on <hi>Matt.</hi> xxi. 32.</item>
+               <item>19. A Country Parson's Sermon, <hi>Sept.</hi> 9. 1683. on <hi>Psalm</hi> lxxiii. 1.</item>
+               <item>20. <hi>Mr. Evan</hi>'s Moderation Stated, in a Ser<g ref="char:EOLhyphen"/>mon before the Lord Mayor, <hi>October</hi> 22. 1682. on <hi>Phil.</hi> iv. 5.</item>
+               <item>21. Dr. <hi>Fowler</hi>'s Assize Sermon at <hi>Gloucester, August</hi> 7. 1681. on 1 <hi>Tim.</hi> i. 19.</item>
+               <item>22. Dr. <hi>Fitz-Williams</hi>'s Sermon, <hi>Sept.</hi> 9. 1683. on <hi>Prov.</hi> xxiv. 21, 22.</item>
+               <item>23. <hi>Mr. Fox</hi>'s Sermon at the <hi>Herefordshire</hi> Feast, <hi>July</hi> 3. 1683. on <hi>Exodus</hi> xx. 12.</item>
+               <item>24. <hi>Mr. Foster</hi>'s Assize Sermon at <hi>Rochester, March</hi> 18. 1683. on <hi>Prov.</hi> xvii. 26.</item>
+               <item>25. <hi>Mr. Gaskarth</hi>'s Sermon at the Duke of <hi>Lauderdale</hi>'s Funeral, on <hi>Psalm</hi> lxxxii. 67.</item>
+               <item>26. —'s Visitation Sermon at <hi>Bristol, October</hi> 30. 1685. on <hi>Acts</hi> xi. 24.</item>
+               <item>27. <hi>Mr. Gipp</hi>'s Three Sermons, the first on <hi>Rom.</hi> xiii. 1. the two last on <hi>Titus</hi> iii. 1.</item>
+               <item>28. Dr. <hi>Hicks</hi>'s Sermon, proving that the strongest Temptations are conquerable by Chri<g ref="char:EOLhyphen"/>stians, preached before the Lord Mayor, <hi>Jan.</hi> 14. 1676. on 1 <hi>Cor.</hi> x. 13.</item>
+               <pb facs="tcp:172059:10"/>
+               <item> 29. —'s Spirit of Enthusiasm Exorcised, preached at <hi>Oxford,</hi> on Act-Sunday, <hi>July</hi> 11. 1680. on 1 <hi>Cor.</hi> xii. 4.</item>
+               <item>30. —'s <hi>Peculium Dei,</hi> preached before the Lord Mayor, <hi>Feb.</hi> 6. 1680. on <hi>Rom.</hi> ix. 4, 5.</item>
+               <item>31. —'s Notion of Persecution stated, on 2 <hi>Cor.</hi> iv. 9.</item>
+               <item>32. —'s Sermon <hi>Jan.</hi> 30. 1681. before the Lord Mayor, on <hi>Acts</hi> xvii. 7.</item>
+               <item>33. —'s Discourse of God's Glory, preached at the <hi>Yorkshire</hi> Feast, <hi>June</hi> 11. 1682. on 1 <hi>Cor.</hi> x. 32.</item>
+               <item>34. —'s Spittle Sermon at S. <hi>Bridgets, April</hi> 1. 1684. on <hi>Heb.</hi> xiii. 16.</item>
+               <item>35. —'s Sermon <hi>May</hi> 29. 1684. at <hi>Worcester,</hi> on <hi>Psalm</hi> xiv. 7.</item>
+               <item>36. <hi>Mr. Hopkin</hi>'s Sermon, <hi>Sept.</hi> 2. 1683. before the Lord Mayor, on <hi>John</hi> v. 14.</item>
+               <item>37. <hi>Mr. Holland</hi>'s Assize Sermon at <hi>Leicester, March</hi> 19. 1685. on <hi>Exodus</hi> xiv. 13.</item>
+               <item>38. <hi>Mr. Hinton</hi>'s Sermon, <hi>July</hi> 26. 1685. at <hi>Newbury,</hi> on 2 <hi>Sam.</hi> xviii. 28.</item>
+               <item>39. <hi>Mr. Hutton</hi>'s Sermon at <hi>Ʋp-Lime</hi> the same day, upon <hi>Joshua</hi> xxii. 22.</item>
+               <item>40. <hi>Mr. Inett</hi>'s Sermon at <hi>Warwick</hi> Assizes, <hi>Aug.</hi> 1. 1681. on <hi>Prov.</hi> xiv. 34.</item>
+               <item>41. <hi>Mr. Kidder</hi>'s Sermon before the Lord May<g ref="char:EOLhyphen"/>or, <hi>July</hi> 16. 1682. on 1 <hi>Pet.</hi> iii. 11.</item>
+               <item>42. —'s Sermon at <hi>Mr. William Allen</hi>'s Fune<g ref="char:EOLhyphen"/>ral, <hi>Aug.</hi> 17. 1686. on <hi>Heb.</hi> xiii. 14.</item>
+               <item>43. <hi>Mr. Lamb</hi>'s Sermon before the King at <hi>Windsor, June</hi> 13. 1680. on <hi>Matt.</hi> xvi. 26.</item>
+               <item>44. —'s Sermon before the Lord Mayor, <hi>Feb.</hi> 5. 1681. on <hi>Psalm</hi> cxix. 165.</item>
+               <pb facs="tcp:172059:11"/>
+               <item> 45. —'s Liberty of Humane Nature Discuss'd, Stated, and Limited, in a Sermon on 1 <hi>Cor.</hi> vi. 12.</item>
+               <item>46. <hi>Mr. Lynford</hi>'s Sermon before the Lord Mayor, <hi>November</hi> 16. 1679. on 2 <hi>Chronicles</hi> xx. 17.</item>
+               <item>47. <hi>Mr. Leigh</hi>'s Keeping of Holy Days Re<g ref="char:EOLhyphen"/>commended, in a Sermon upon <hi>Psalm</hi> cxviii. 24.</item>
+               <item>48. <hi>Mr. Lowde</hi>'s Reasonableness of the Chri<g ref="char:EOLhyphen"/>stian Religion, in a Visitation Sermon at <hi>Stoakesley</hi> in <hi>Cleveland</hi> in <hi>Yorkshire,</hi> on 1 <hi>Cor.</hi> i. 23, 24.</item>
+               <item>49. Dr. <hi>John Moore</hi>'s Sermon before the Lord Mayor, <hi>May</hi> 28. 1682. on 1 <hi>Tim.</hi> vi. 3.</item>
+               <item>50. —'s Patience and Submission to Authority, in a Sermon before the Lord Mayor, <hi>Jan.</hi> 27. 1683. on <hi>Heb.</hi> x. 36.</item>
+               <item>51. Dr. <hi>Meggot</hi>'s Lent-Sermon at <hi>Whitehal, Mar.</hi> 1. 1682. on <hi>Eccl.</hi> iii. 21.</item>
+               <item>52. Dr. <hi>Mapletoft</hi>'s Perswasive to the Consci<g ref="char:EOLhyphen"/>entious frequenting the daily Publick Prayers of the Church of <hi>England,</hi> in a Sermon on 1 <hi>Thess.</hi> v. 17, 18.</item>
+               <item>53. Mr. <hi>Milbourne</hi>'s Originals of Rebellion, in a Sermon on <hi>Jan.</hi> 30. 1682. on <hi>Acts</hi> xxv. 8.</item>
+               <item>54. —'s Samaritanism Reviv'd, in a Sermon, <hi>Sept.</hi> 9. 1683. on <hi>Ezra</hi> iv. 1, 2, 3, 4, 5.</item>
+               <item>55. Mr. <hi>Paine</hi>'s Sermon at the <hi>Brentwood</hi>-School Fe<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, <hi>June</hi> 29. 1682. on <hi>Prov.</hi> i. 7.</item>
+               <item>56. —'s Two Sermons, one on <hi>Jan.</hi> 30. 1682. the other on <hi>Sept.</hi> 9. 1683. on 1 <hi>Sam.</hi> xxvi. 9.</item>
+               <item>57. Mr. <hi>Powel</hi>'s Religious Rebel, in a Sermon on <hi>Sept.</hi> 9. 1683. on <hi>Psal.</hi> x. 10.</item>
+               <item>58. Mr. <hi>Richardson</hi>'s Sermon before the Lord Mayor, <hi>Sept.</hi> 17. 1682. on <hi>Prov.</hi> xiv. 34.</item>
+               <pb facs="tcp:172059:11"/>
+               <item> 59. Mr. <hi>Resbury</hi>'s Sermon at Sir <hi>Alan Brode<g ref="char:EOLhyphen"/>rick</hi>'s Funeral, <hi>Decem.</hi> 3. 1680. on <hi>Isaiah</hi> lvii. i.</item>
+               <item>60. —'s Sermon at the Anniversary Meeting of the <hi>Charter house</hi> Scholars, <hi>Decem.</hi> 13. 1680. on <hi>Mat.</hi> xxv. 40.</item>
+               <item>61. Dr. <hi>William Smith</hi>'s Two Sermons at <hi>Nor<g ref="char:EOLhyphen"/>wich, May</hi> 3. and 29. 1677. the one upon 1 <hi>Thess.</hi> v. 17. the other on <hi>Psal.</hi> ii. 6.</item>
+               <item>62. —'s Sermon at <hi>Norwich</hi> on the fourth Sun<g ref="char:EOLhyphen"/>day in Lent, 1680. upon <hi>Luke</hi> xxii. 19.</item>
+               <item>63. —'s Sermon at <hi>Norwick, Septem.</hi> 9. 1683. on <hi>Psal.</hi> cvii. 8.</item>
+               <item>64. Dr. <hi>Thomas Smith</hi>'s Sermon at <hi>Oxford</hi> con<g ref="char:EOLhyphen"/>cerning the Doctrine, Unity, and Profession of the Christian Faith, on <hi>Ephes.</hi> iv. 5.</item>
+               <item>65. Dr. <hi>Sharp</hi>'s Fast-Sermon before the House of Commons, <hi>April</hi> 11. 1679. on <hi>Revel.</hi> ii. 5.</item>
+               <item>66. —'s Duty and Happiness of doing good, in two Sermons, the former Preached at the <hi>York<g ref="char:EOLhyphen"/>shire</hi> Feast, <hi>Feb.</hi> 17. 1679. on <hi>Eccl.</hi> iii. 10. the other before the Lord Mayor at the <hi>Spittle, Apr.</hi> 14. 1680. on 1 <hi>Tim.</hi> vi. 17, 18, 19.</item>
+               <item>67. —'s Sermon at the Election of the Lord Mayor, <hi>Sept.</hi> 29. 1680. on <hi>Psal.</hi> cxii. 4.</item>
+               <item>68. —'s Lent-sermon at <hi>Whitehal, March.</hi> 20. 1684. on <hi>Luke</hi> xvi. 31.</item>
+               <item>69. Dr. <hi>Scott</hi>'s Sermon before the Lord Mayor, <hi>Decem.</hi> 16. 1683. on <hi>Prov.</hi> xxiv. 21.</item>
+               <item>70. —'s Sermon before the Lord Mayor, <hi>July</hi> 26. 1685. on 2 <hi>Sam.</hi> xviii. 28.</item>
+               <item>71. —'s Sermon at the <hi>Chelmsford</hi> Assizes, <hi>Aug.</hi> 31. 1685. on <hi>Rom.</hi> xiii 1.</item>
+               <item>72. —'s Sermon before the Lord Mayor, <hi>Sept.</hi> 2. 1686. on <hi>John</hi> v. 14.</item>
+               <pb facs="tcp:172059:12"/>
+               <item> 73. —'s Sermon at Sir <hi>John Buckworth</hi>'s Fune<g ref="char:EOLhyphen"/>ral, <hi>Decem.</hi> 29. 1687. on <hi>Eccles.</hi> xi. 8.</item>
+               <item>74. <hi>Mr. Sills</hi> Sermon at <hi>Guild-hall</hi> on <hi>Good-Friday,</hi> 1681. on <hi>Heb.</hi> ii. 14, 15.</item>
+               <item>75. <hi>Mr. Sermon</hi>'s Wisdom of Publick Piety, in a Sermon before the Lord Mayor, <hi>Sept.</hi> 28. 1679. on <hi>Jam.</hi> iii. 13.</item>
+               <item>76. Dr. <hi>Thomas Turner</hi>'s Sermon at <hi>Whitehal, May</hi> 29. 1685. on <hi>Isaiah</hi> i. 26.</item>
+               <item>77. <hi>Mr. Bryan Turner</hi>'s <hi>Testimonium Jesu,</hi> in a Sermon before the Lord Mayor, on <hi>Rev.</hi> xix. 10.</item>
+               <item>78. <hi>Mr. John Turner</hi>'s Animadversions upon the Doctrine of Transubstantiation, in a Sermon before the Lord Mayor, <hi>October</hi> 19. 1679. on 1 <hi>Cor.</hi> v. 7, 8.</item>
+               <item>79. —'s Discourse of the Divine Omnipre<g ref="char:EOLhyphen"/>sence, in a Sermon at <hi>Lincolns-Inn,</hi> on <hi>Psal.</hi> cxxxix. 7, 8, 9, 10.</item>
+               <item>80. —Charity recommended, in a Sermon at the <hi>Norwich</hi> Assizes, <hi>July</hi> 29. 1686. on <hi>John</hi> xiii. 35.</item>
+               <item>81. Dr. <hi>Thorp</hi>'s Sermon before the Lord Mayor, <hi>Sept.</hi> 2. 1677. on <hi>Matt.</hi> 7.12.</item>
+               <item>82. Dr. <hi>Woodroff</hi>'s Sermon before the Lord Mayor, <hi>Octob,</hi> 26. 79. on <hi>Psal.</hi> xi. 3.</item>
+               <item>83. <hi>Mr. Williams</hi>'s Sermon before the Lord Mayor, <hi>Octob.</hi> 12. 1679. on <hi>Eph.</hi> iv. 16.</item>
+               <item>84. <hi>Mr. Wagstaffe</hi>'s Sermon, <hi>Sept.</hi> 9. 1683. on <hi>Prov.</hi> i. 10, 11, 12, 13, 14, 15, 16.</item>
+               <item>85. —'s Sermon before the Lord Mayor, <hi>Nov.</hi> 23. 1684. on 1 <hi>Cor.</hi> viii. 12.</item>
+               <item>86. —'s Sermon, <hi>July</hi> 26. 1685. on 1 <hi>Kings</hi> 1.5.</item>
+               <pb facs="tcp:172059:12"/>
+               <item> 87. —'s Sermon, Preached at the <hi>Warwickshire</hi> Feast, at <hi>St. Mary le Bow, November</hi> 24. 1687. on 1 <hi>Pet.</hi> iii. 8.</item>
+               <item>88. <hi>Mr. Wray</hi>'s Rebellious City destroyed, in a Sermon, <hi>September</hi> 2. 1682. on <hi>Ezra</hi> iv. 15.</item>
+               <item>89. —'s Loyalty Protesting against Popery, and <hi>Fanaticism</hi> popishly affected, in a Sermon, <hi>Novem.</hi> 5. 1682. on <hi>Gen.</hi> xlix. 6.</item>
+               <item>90. <hi>Mr. Wyvill</hi>'s Assize-Sermon at <hi>York, Mar.</hi> 8. 1685. on <hi>Judges</hi> xvii. 6.</item>
+               <item>91. <hi>Mr. Young</hi>'s Sermon before the Lord Mayor, <hi>Feb.</hi> 4.82. on <hi>Mat.</hi> v. 3.</item>
+               <trailer>FINIS.</trailer>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172059:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:172059:13"/>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
